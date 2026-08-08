@@ -542,19 +542,18 @@ footer p {
 
     .map-container {
         width: 92%;
-        max-width: 100%;
-        margin: 30px auto;
-        padding: 10px;
-        border: 4px double #b22222;
-        border-radius: 10px;
+        margin: 20px auto;
+        padding: 5px;
+        border: 3px double #b22222;
     }
 
     .map-container img {
         width: 100%;
-        max-width: 100%;
         height: auto;
         display: block;
     }
+
+}
 
 
      /* --- DIRECTORY --- */
